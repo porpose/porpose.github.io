@@ -8,6 +8,9 @@ Email：feiyu.quan@mail.utoronto.ca
 
 [My Twitter](https://twitter.com/PorposeVision) 
 
-[My Linkedin](https://www.linkedin.com/in/feiyu-quan-158002190/)
+[My LinkedIn](https://www.linkedin.com/in/feiyu-quan-158002190/)
 
 ## Resume
+
+[Click here!](https://github.com/porpose/porpose.github.io/raw/main/Resume.pdf)
+
