@@ -6,7 +6,7 @@ I'm Feiyu Quan, a 3rd year student in the specialist program in physics and astr
 
 Email：feiyu.quan@mail.utoronto.ca   
 
-[My Twitter](https://twitter.com/home?lang=en) 
+[My Twitter](https://twitter.com/PorposeVision) 
 
 [My Linkedin](https://www.linkedin.com/in/feiyu-quan-158002190/)
 
