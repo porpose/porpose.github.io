@@ -1,4 +1,4 @@
-# Welcome to personal website!
+# Welcome to my personal website!
 
 I'm Feiyu Quan, a 3rd year student in the specialist program in physics and astrophysics at University of Toronto Scarborough.
 
