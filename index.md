@@ -2,13 +2,11 @@
 
 ![1r3fn3-e1579990017466-1200x761](https://user-images.githubusercontent.com/57694508/138346484-d9da16be-b3c2-4051-a54c-38010487eb82.jpg)
 
-I'm Feiyu Quan, a postgraduate student at University of Cambridge studying astrophysics. Previously, I studied physics and astrophysics during my undergrad at University of Toronto.
+I'm Feiyu Quan, a PhD student at The Chinese University of Hong Kong studying astrophysics. Previously, I studied astrophysics at University of Toronto and University of Cambridge.
 
 ## Contact
 
 Email：feiyu.quan@mail.utoronto.ca   
-
-[My Twitter](https://twitter.com/PorposeVision) 
 
 [My LinkedIn](https://www.linkedin.com/in/feiyu-quan-158002190/)
 
