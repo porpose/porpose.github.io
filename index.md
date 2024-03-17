@@ -6,7 +6,7 @@ I'm Feiyu Quan (全飞宇), a PhD student at The Chinese University of Hong Kong
 
 ## Contact
 
-Email：feiyu.quan@mail.utoronto.ca   
+Email: feiyu.quan@mail.utoronto.ca   
 
 [My LinkedIn](https://www.linkedin.com/in/feiyu-quan-158002190/)
 
