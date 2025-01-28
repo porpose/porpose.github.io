@@ -12,5 +12,5 @@ Email: 1155218030@link.cuhk.edu.hk
 
 ## Resume
 
-[Click here!](https://github.com/porpose/porpose.github.io/raw/main/Resume.pdf)
+[Click here!](Resume.pdf)
 
