@@ -1,4 +1,4 @@
-## Yet another personal website
+## Hello there!
 
 
 [Click here](https://porpose.github.io/) to see my personal website!
