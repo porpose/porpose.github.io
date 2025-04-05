@@ -14,5 +14,5 @@ Email: 1155218030@link.cuhk.edu.hk
 
 ## Resume
 
-[Click here!](Resume.pdf)
+[Click here!](https://www.overleaf.com/read/dvzcfgnngbjc#e1ad6e)
 
