@@ -12,7 +12,7 @@ Email: 1155218030@link.cuhk.edu.hk
 
 [My LinkedIn](https://www.linkedin.com/in/feiyu-quan-158002190/)
 
-## Resume
+## Curriculum vitae
 
 [Click here!](https://www.overleaf.com/read/dvzcfgnngbjc#e1ad6e)
 
