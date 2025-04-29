@@ -8,7 +8,7 @@ I'm Feiyu Quan (全飞宇), a PhD student at The Chinese University of Hong Kong
 ## Contact
 
 
-Email: 1155218030@link.cuhk.edu.hk  
+Email: feiyu.quan@link.cuhk.edu.hk  
 
 [My LinkedIn](https://www.linkedin.com/in/feiyu-quan-158002190/)
 
