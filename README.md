@@ -1,3 +1,3 @@
-## Hello there!
+# Hello there! 
 
-[Click here](https://porpose.github.io/) to see my personal website!
+[Click here to see my personal website!](https://porpose.github.io/)
