@@ -4,12 +4,12 @@
 @import "{{ site.theme }}";
 
 .wrapper {
-  width: 90%;
-  max-width: 1400px;  /* Adjust this for your preferred max width */
+  width: 50%;
+
 }
 
 section {
-  width: 70%;         /* Make the content section wider */
+  width: 50%;         /* Make the content section wider */
   float: none;        /* Remove the float if present */
 }
 
