@@ -5,19 +5,19 @@
 
 
 .wrapper {
-  max-width: 1700px;
+  max-width: 1800px;
   width: 100%;
   margin: 0 auto;
 }
 
 header {
-  width: 200px;       /* Keep header at fixed width */
+  width: 10%;       /* Keep header at fixed width */
   position: fixed;
 }
 
 section {
-  width: 35%;  /* Full width minus header + gap */
-  margin-left: 10px; /* Push content to the right of the header */
+  width: 50%;  /* Full width minus header + gap */
+  margin-left: 10%; /* Push content to the right of the header */
   float: none;
 }
 
