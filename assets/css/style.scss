@@ -11,13 +11,13 @@
 }
 
 header {
-  width: 10%;       /* Keep header at fixed width */
+  width: 15%;       /* Keep header at fixed width */
   position: fixed;
 }
 
 section {
-  width: 50%;  /* Full width minus header + gap */
-  margin-left: 10%; /* Push content to the right of the header */
+  width: 55%;  /* Full width minus header + gap */
+  margin-left: 25%; /* Push content to the right of the header */
   float: none;
 }
 
