@@ -3,13 +3,22 @@
 
 @import "{{ site.theme }}";
 
-.wrapper {
-  width: 50%;
 
+.wrapper {
+  max-width: 1400px;
+  width: 95%;
+  margin: 0 auto;
+}
+
+header {
+  width: 200px;       /* Keep header at fixed width */
+  position: fixed;
 }
 
 section {
-  width: 50%;         /* Make the content section wider */
+  width: 65%;         /* Wider content area */
+  margin-left: 230px; /* Push content to the right of the header */
+  float: none;
 }
 
 .inner {
