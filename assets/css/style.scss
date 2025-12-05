@@ -4,23 +4,6 @@
 @import "{{ site.theme }}";
 
 
-.wrapper {
-  max-width: 1800px;
-  width: 100%;
-  margin: 0 auto;
-}
-
-header {
-  width: 15%;       /* Keep header at fixed width */
-  position: fixed;
-}
-
-section {
-  width: 55%;  /* Full width minus header + gap */
-  margin-left: 25%; /* Push content to the right of the header */
-  float: none;
-}
-
 .inner {
   max-width: 100%;
 }
