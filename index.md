@@ -7,9 +7,9 @@ I'm Feiyu Quan (全飞宇), a PhD student at The Chinese University of Hong Kong
 
 ### Projection effects in observations
 
-**F. Quan** et al., Projection Is All You Need: Interpreting Polarization Measurements in the Orion Clouds with Sub-Alfvénic MHD Simulations, submitted to ApJ.
+**Feiyu Quan** et al., Projection Is All You Need: Interpreting Polarization Measurements in the Orion Clouds with Sub-Alfvénic MHD Simulations, *The Astrophysical Journal*, 2026, [doi link](https://doi.org/10.3847/1538-4357/ae83b9).
 
-Interactive visualizations of dense cores in molecular clouds and their surrounding magnetic fields (from the simulations in this work) can be found at [here (misaligned magnetic fields)](https://www.phy.cuhk.edu.hk/sfg/Feiyu/clump2.html){:target="_blank"} and [here (aligned magnetic fields)](https://www.phy.cuhk.edu.hk/sfg/Feiyu/clump4_new.html){:target="_blank"}. (They could take a while to load. If they are not loading, clearing your browser's cache might help.)
+This work discusses the significance of projection effects in interpreting observations of polarizations, and the complex magentic field morphologies in slightly super-Alfvénic dense cores within sub-Alfvénic molecular clouds. Interactive visualizations of these cores and their surrounding magnetic fields (from the simulations in this work) can be found at [here (for misaligned magnetic fields)](https://www.phy.cuhk.edu.hk/sfg/Feiyu/clump2.html){:target="_blank"} and [here (for aligned magnetic fields)](https://www.phy.cuhk.edu.hk/sfg/Feiyu/clump4_new.html){:target="_blank"}. (They could take a while to load. If they are not loading, clearing your browser's cache might help.)
 
 In these visualizations, the red field lines indicate that they pass through dense regions with volume density $ > 5 \times 10^4 \ {\rm H_2}\ \mathrm{cm}^{-3} $ , while the blue field lines pass through diffuse gas with volume density $ < 1 \times 10^4 \ {\rm H_2}\ \mathrm{cm}^{-3} $. The grey-scale color indicates different volume densities.
 
